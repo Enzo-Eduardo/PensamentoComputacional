@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+body {
+    color: rgb(58, 46, 23);
+  }
+  
+  h1 {
+    color: green;
+  }
+  
+
+  body {
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
+  
